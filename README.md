@@ -1,2 +1,2 @@
-# RBXmodules-settingsHandler
+# settings handler
 simple module that allows the user to easily create and manage settings
