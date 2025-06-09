@@ -197,5 +197,3 @@ settings:import(all)
 ```
 
 ---
-
-Let me know if you'd like a Markdown or HTML version of this doc for a DevForum post, GitHub README, or in-game UI integration.
