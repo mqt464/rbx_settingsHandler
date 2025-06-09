@@ -1,4 +1,4 @@
-# Documentation created by ChatGPT, because I am lazy
+# Documentation created by ChatGPT because I am lazy
 
 ---
 
